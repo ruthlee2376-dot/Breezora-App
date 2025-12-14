@@ -88,12 +88,14 @@ main {
 .weather-app-temperature {
   font-size: 88px;
   font-weight: bold;
-  color: #1f6f78;
+  color: #346357;
 }
 
 .weather-app-unit {
   margin-top: 16px;
   font-size: 28px;
+  color: #346357;
+  font-weight: bold;
 }
 footer {
   border-top: 1px solid #f96d00;
