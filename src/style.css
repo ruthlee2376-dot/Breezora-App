@@ -110,9 +110,9 @@ main {
 
 .weather-forecast-icon {
   width: 88px;
-  height: 88px
-  display: block;
+  height: 88px;
   margin: 0 auto;
+  display: block;
 }
 
 .weather-forecast-temperatures {
